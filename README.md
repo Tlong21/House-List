@@ -17,6 +17,12 @@
 ### Main Floor
 - **Toilet running** – Stays running after a flush for a random period of time. Needs to be checked and repaired.
 
+### Basement Floor
+- **Toilet doesnt fully exchange water in toilet bowl** – Needs to be checked and repaired.
+
+### 2nd Floor Office
+- **Toilet doesnt fully exchange water in toilet bowl** – Needs to be checked and repaired.
+
 ### Dryer Vent
 - **Vent issue** – Lint buildup previously caused issues. The builder broke the vent to allow lint to pass through, but this created an entry point for animals. The vent needs to be replaced with a flap-style cover for proper airflow and pest prevention.
 
